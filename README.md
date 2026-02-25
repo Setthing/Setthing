@@ -1,6 +1,5 @@
-### Oi! Sou o Matheus Santos
-- 🌱 Estudando HTML e CSS
-
+### Hi, Matheus here, how are you?
+- 🌱 Learning Python for creating Games
 ##
 
 <div>
